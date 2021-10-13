@@ -54,7 +54,7 @@ note : Can only be used by Group admins and Bot owner\n
 command : *${prefix}tagall*
 desc : tags all group members including admins too
 usage : just send the command
-note : This command can be used if you are a group admin\n
+note : This command can be used if you are a group admin\n`
 }
 
 exports.help = help
