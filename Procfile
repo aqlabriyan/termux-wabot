@@ -1,1 +1,1 @@
-web: node index.js
+workee: bash install.sh && npm start
