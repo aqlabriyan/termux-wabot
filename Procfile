@@ -1,1 +1,1 @@
-web: bash install.sh && npm start
+worker : npm install && npm start
