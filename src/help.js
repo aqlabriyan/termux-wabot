@@ -1,20 +1,12 @@
 const help = (prefix) => {
 	return `> *Sticker Commands* <
-command : *${prefix}sticker* or *${prefix}stiker*
+command : *${prefix}sticker*
 desc : convert image/gif/video to sticker
 usage : reply image/gif/video, or send image/gif/video with caption\n
 command : *${prefix}toimg*
 desc : convert sticker to image
 usage : reply sticker\n
 > *Group Comands* <
-command : *${prefix}add*
-desc : add member into group
-usage : *${prefix}add 62813xxxxx*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
-command : *${prefix}kick*
-desc : kick members from group
-usage : *${prefix}kick @tagmember*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
 command : *${prefix}linkgroup*
 desc : take the group link
 usage : just send the command
